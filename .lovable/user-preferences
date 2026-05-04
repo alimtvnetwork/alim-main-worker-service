@@ -1,0 +1,5 @@
+Be concise. No filler closings ("Hope this helps", "Let me know if you have questions").
+Prefer action over discussion when scope is clear; ask clarifying questions only when scope is broad.
+"read memory" → execute `.lovable/prompts/01-read-memory.md`.
+Always bump the package.json + version.json minor version on any code-base change.
+Cite spec file + section when enforcing a rule.
